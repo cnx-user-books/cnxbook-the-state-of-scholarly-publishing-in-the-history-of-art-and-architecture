@@ -1,0 +1,152 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Appendix B: Trends in Art History Ph.D.’s</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>7bd1242d-6022-4f6f-96af-0fcd83331eee</md:uuid>
+</metadata>
+<content>
+
+<para id="id3018352">Data on art history-related Ph.D.’s conferred
+over time were obtained from the National Center for Education
+Statistics’ (NCES) online Integrated Postsecondary Education Data
+System (IPEDS). As explained on the IPEDS web site (<link url="http://nces.ed.gov/ipeds/">http://nces.ed.gov/ipeds/</link>),
+"The IPEDS system is built
+around a series of interrelated surveys to collect
+institution-level data in such areas as enrollments, program
+completions, faculty, staff, and finances." By law, all
+institutions of higher education wishing to participate in any
+Federal financial assistance programs must complete all IPEDS
+surveys each year, making IPEDS the most comprehensive source of
+statistical data about postsecondary education in the United
+States.</para>
+<para id="id3069888">The system contains data on degrees awarded
+(by institution and by instructional program) going back to the
+1979-80 academic year. Using the IPEDS system, it was possible to
+extract year-by-year data on the number of art history-related
+Ph.D.’s awarded at each institution in each academic year from
+1979-80 through 2003-04. (The only exceptions were for the academic
+years 1980-81, 1981-82, 1982-83, and 1998-99, years during which
+data were not collected.)</para>
+<para id="id3105610">Data were compiled using two different
+strategies and then cross-checked for consistency. The first method
+involved extracting information directly from IPEDS, using NCES’
+online "Dataset Cutting Tool" at 
+<link url="http://nces.ed.gov/ipedspas/">
+http://nces.ed.gov/ipedspas/</link>. To access the Dataset Cutting
+Tool, public users must log on to the system using the "Guest
+Level" access link. After agreeing to the terms of the NCES Data
+User Agreement, users are redirected to a web page that allows
+access to the Dataset Cutting Tool. Users then select, from a
+series of menus, various options that allow a customized data set
+to be created that contains specific data of interest to the user.
+The following procedure was used to extract year-by-year data for
+Ph.D.’s awarded in the field of art history:</para>
+
+<list list-type="bulleted" id="id3215294">
+<item>Under "Select Institutions," "<term>2004</term>" was selected in order to establish the set of
+schools from which data were to be extracted. The "2004" set
+consists of all schools for which records existed in the IPEDS
+database in 2004. Other years could be selected, for example, if
+the user wished to examine data only from schools that were
+represented in the 1980 IPEDS database.</item>
+<item>Next, the option "<term>Select schools using specific criteria</term>" was selected,
+since not all schools confer doctoral degrees; this allows such
+schools to be excluded from the analysis (in a subsequent step),
+which speeds up the extraction of data.</item>
+<item>To see data for degree completions, "<term>collection year</term>" must be selected under the option
+labeled "View data by."</item>
+<item>On the next page, the range of schools to be included in the
+analysis can be restricted as needed for the purpose of the
+research. For this study, it was sufficient to select the two
+categories labeled "<term>Doctoral/Research Universities-Extensive</term>" and "<term>Doctoral/Research Universities-Intensive</term>" under the
+"Carnegie classification" option in order to narrow the universe of
+schools to those relevant to this inquiry.</item>
+<item>The next page shows the list of specific schools that were
+selected based on the school inclusion criteria just chosen.</item>
+<item>The next page allows the user to select the "collection year"
+from which the data should be pulled. Selecting "<term>04</term>," for example, selects the 2003-04 academic
+year.</item>
+<item>Once a collection year was selected, the choice labeled "<term>Completions</term>" was selected under the "Survey" option.
+This pulls information from the database concerning degrees
+awarded.</item>
+<item>On the next page, the option "<term>Awards/degrees conferred by program (CIP)</term>" was
+selected, which allows degrees awarded to be viewed by specific
+programmatic categories such as "Art history, criticism and
+conservation."</item>
+<item>On the next page, the user may select the specific
+instructional programs for which data should be pulled. For this
+study, the following programmatic categories (CIP codes) were
+selected:
+
+<list list-type="bulleted" id="id3210233">
+<item>
+<emphasis>Art History, Criticism and Conservation (CIP code
+50.0703)</emphasis>
+</item>
+<item>
+<emphasis>Fine Arts and Arts Studies, General (CIP code
+50.0701)</emphasis>
+</item>
+<item>
+<emphasis>Fine Arts and Arts Studies, Other (CIP code
+50.0799)</emphasis>
+</item>
+<item>
+<emphasis>Film/Cinema Studies (CIP code 50.0601)</emphasis>
+</item>
+<item>
+<emphasis>Historic Preservation and Conservation (CIP code
+30.1201)</emphasis>
+</item>
+<item>
+<emphasis>Historic Preservation and Conservation, Other (CIP code
+30.1209)</emphasis>
+</item>
+<item>
+<emphasis>Medieval and Renaissance Studies (CIP code
+30.1301)</emphasis>
+</item>
+
+<item>
+<emphasis>Museology/Museum Studies (CIP code 30.1401)</emphasis>
+</item>
+</list>
+(It should be noted that Ph.D.’s awarded in
+areas such as Architecture and Archaeology were not included in our
+analyses.)
+</item>
+
+<item>Under "Award Level code," "<term>Doctor’s degree</term>" was selected.</item>
+<item>Under "First or Second Major," "<term>First major</term>" was selected.</item>
+<item>Under "List of variables," "<term>Grand total men</term>," "<term>Grand total women</term>," and "<term>Grand total</term>" were selected. (For most years, "Grand
+total" was not available as a category, so "Grand total men" and
+"Grand total women" had to aggregated in order to come up with a
+grand total.)</item>
+<item>On the next page, a summary of the requested data file is
+provided, and the user is given the option to 
+<emphasis>download</emphasis> the data.</item>
+</list>
+
+<para id="id3172164">The above procedure was replicated for each
+academic year for which data were available between 1979-80 and
+2003-04. The resulting data files were then merged, so that trends
+could be examined in the awarding of art history-related Ph.D.’s
+over time.</para>
+<para id="id2868840">The second method used to compile these trend
+data was to collect lists of institutions known to have Ph.D.
+programs in art history (and/or related areas). One list of such
+institutions was obtained from the College Art Association; a
+second list was obtained from the web site, 
+<link url="http://www.gradschools.com/">www.gradschools.com</link>.
+Based on the results obtained from the IPEDS analyses, a third list
+was compiled consisting of all institutions that appeared in the
+IPEDS data files as having awarded art history-related doctoral
+degrees between 1979 and 2004. These three lists were combined into
+a master list, which was then provided to a researcher at NCES, who
+ran a second complete set of analyses focusing strictly on the
+institutions represented in the merged list. His analyses almost
+exactly matched the earlier analyses we had run using IPEDS. The
+results shown in this research report are taken from the analyses
+conducted by the NCES researcher, based on the list of academic
+institutions we provided.</para>
+
+</content>
+</document>

@@ -1,0 +1,109 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Appendix A: Trends in Art History Publishing</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>6702f700-dd92-41a3-8a9b-605e24881771</md:uuid>
+</metadata>
+<content>
+<para id="id3202210">Data on the numbers of books published in the
+field of art history over time were obtained from the Bowker Global
+Books in Print database (<link url="http://www.globalbooksinprint.com/">www.globalbooksinprint.com</link>). Additional data on book
+industry trends were obtained from Simba Information (<link url="http://www.simbanet.com/">www.simbanet.com/</link>),
+Bookwire (<link url="http://www.bookwire.com/">www.bookwire.com</link>), and
+the Association of American University Presses (<link url="http://aaupnet.org/">http://aaupnet.org/</link>).</para>
+<para id="id3047583">The Bowker Global Books in Print database is
+the database of record for U.S. books in print, as it has served as
+the official ISBN agency to the United States since 1968. In
+effect, any book that is assigned an ISBN (International Standard
+Book Number) becomes a part of the database. At present, the
+database contains detailed information on more than 12.5 million
+in-print, out-of-print, and forthcoming books, audio books, and
+videos from more than 40 countries.</para>
+<para id="id3221868">All titles in the database are classified
+under multiple subject headings, using detailed classification
+schemes devised by Bowker, BISAC (the Book Industry Systems
+Advisory Committee), and BIC (the Book Industry Communication
+group). The database is searchable using each of these
+classification schemes, or it may be searched using all three
+schemes (for maximum inclusiveness).</para>
+<para id="id2840942">To search the Bowker database, the user
+chooses specific settings across a set of more than a dozen data
+filters that systematically winnow the data so that only relevant
+titles are displayed in the search results. The settings chosen to
+track art history titles over time were as follows:
+<list list-type="bulleted" id="id2993330">
+<item>In the first search field, "Publisher Name" was selected, and
+all books where the publisher's name included the word "<term>university</term>"
+were included in the search. A secondary search was necessary to
+make sure that all relevant art history books published by MIT
+Press were also included in the final counts; instead of specifying
+"university" in the "Publisher Name" field, the letters "<term>MIT</term>" were
+specified.</item>
+<item>In the second, third, and fourth search fields,
+"Subject-(all)" was selected. This allowed titles to be searched
+across all three subject classification schemes at the same time
+(Bowker, BISAC and BIC), using three specific key words (one for
+each search field). In the second search field, the key word "<term>art</term>"
+was searched for, and in the third field, the term "<term>history</term>" was
+searched for. Using these two terms yielded results that included
+all titles for which <emphasis>both</emphasis> the word "art" and the word "history"
+appeared in at least one of the three subject classification
+schemes. But because a number of titles returned by this search
+were in fact books dealing with "military arts," the fourth search
+field was used to <emphasis>filter out</emphasis> all titles where the term "<term>military</term>"
+was included as a subject descriptor.</item>
+<item>In the "Market" field, "<term>United States</term>" was selected, to limit
+the output to books marketed in the United States.</item>
+<item>In the "Country of Publication" field, "<term>United States</term>" was
+selected.</item>
+<item>In the "Language" field, "<term>English</term>" was selected, so that only
+English-language works were captured by the search.</item>
+<item>In the "Format" field, "<term>Book</term>" was selected, so that audio and
+video products would not be included.</item>
+<item>In the "Subject Limiter" field, "<term>Non-fiction</term>" was
+selected.</item>
+<item>In the "Audience" field, "<term>Adult</term>" was selected, so that any
+titles written specifically for young adults or children would not
+be included in the results.</item>
+<item>The final data filter used to generate year-by-year lists of
+art history titles published by university presses was the
+"Publication Year" field. By entering an appropriate range of
+years, e.g., "<term>2000 to 2004</term>" or "<term>2005 to 2005</term>," all titles published
+within the specified range would be retrieved.</item>
+</list>
+</para>
+<para id="id3054558">The output of the search results was a
+title-by-title list of all books captured using the search
+strategy. For each book listed, the following information was
+provided: Title, Author, Contributor(s), Publisher, ISBN, Format,
+Date of Publication, Price, Market, Availability, LC Classification
+#, Dewey #, and ISBN 13 (the expanded 13-digit ISBNs that just went
+into effect). Information in the "Author" and "Contributor(s)"
+fields was used by the researchers to further classify each title
+produced by eight university presses between 1985 and 2004 as
+either a "single-author work" or not, and as a "museum-related
+work" or not.</para>
+<para id="id3076214">Data on size of market categories and
+estimated book industry revenues across subject categories in 2004
+were provided by Simba Information (<cite><cite-title>Business of Consumer Book
+Publishing 2005</cite-title></cite>, Simba Information: Stamford, CT, 2005), a division
+of R. R. Bowker. Trend data (1993-2004) on total book production by
+subject category for all U.S. presses (as a group) and for all
+university presses (as a group) were provided by Bookwire (<link url="http://www.bookwire.com/">http://www.bookwire.com/</link>), also
+a division of R.R. Bowker. (See, in particular, 
+<link url="http://www.bookwire.com/decadebookproduction.html">
+http://www.bookwire.com/decadebookproduction.html</link> and 
+<link url="http://www.bookwire.com/university.html">http://www.bookwire.com/university.html</link>.)</para>
+<para id="id2822593">Trend data on the output of university presses
+over time were provided by the Association of American University
+Presses, which publishes an annual <cite><cite-title>Directory</cite-title></cite> containing information
+about each of its 125 member presses (as of 2004-05). Title outputs
+for the most recent two years are reported for each press listed in
+the <cite><cite-title>Directory</cite-title></cite>. By consulting the directories from 1987-88 through
+2004-05, it was possible to construct a database containing total
+title output for all AAUP member presses across that period of
+time. Since not all university presses are members of AAUP, it is
+not possible to use AAUP data to analyze the total output of <emphasis>all</emphasis>
+university presses over time. But it is possible to examine trends
+in the total title output of <emphasis>specific</emphasis> university presses over
+time.</para>
+</content>
+</document>
